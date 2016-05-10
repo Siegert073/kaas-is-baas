@@ -1,0 +1,14 @@
+body {border-image-width 50px auto margin-top: 200px auto
+  font-family: "Open Sans", sans-serif;
+  background-image: url(http://thumbs.dreamstime.com/t/yellow-cheese-seamless-pattern-endless-food-texture-58733756.jpg) }
+
+
+.blok {
+  background-color:transparent;
+  width:600px;
+  border: 10px dashed blue;
+  margin: 10px auto;
+}
+body.twee {border-image-width: 50px auto margin-top: 200px auto
+  font-family: "open sans", sans-serif;
+  background-image: url(http://gallery.yopriceville.com/var/resizes/Backgrounds/White_and_Dark_Chocolate_Bars_Background.png?m=1435051852); }
